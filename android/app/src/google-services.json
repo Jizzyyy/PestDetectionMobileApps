@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "784959915731",
+    "firebase_url": "https://dataset-projectt-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dataset-projectt",
+    "storage_bucket": "dataset-projectt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784959915731:android:d3b20158db1a3dd11af626",
+        "android_client_info": {
+          "package_name": "com.example.deteksi_hama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWCtQrDCRQmlzFDR6jFrdLY411fDnzyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
